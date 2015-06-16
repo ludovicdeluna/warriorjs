@@ -10,11 +10,9 @@ You play as a warrior climbing a tall tower to rescue the princess at the top le
 NOTE: Watch the repo or check `npm outdated -g warriorjs` regularly to find out about new levels and abilities.
 
 ## Installation
-
 ```bash
 $ npm install -g warriorjs
 ```
-
 ## Usage
 
 ```bash

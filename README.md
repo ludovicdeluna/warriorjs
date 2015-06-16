@@ -14,11 +14,9 @@ NOTE: Watch the repo or check `npm outdated -g warriorjs` regularly to find out 
 $ npm install -g warriorjs
 ```
 ## Usage
-
 ```bash
 $ warriorjs
 ```
-
 That's it! This will create a warriorjs directory in your current location, where you will find a Player.js file in your profile's directory containing the Player class:
 
 ```javascript
